@@ -3,5 +3,4 @@ title: Vincent Nguyen
 description: Computer Science @ the University of Waterloo
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hello, I'm Vincent Nguyen, a Computer Science student at the University of Waterloo from Fredericton, New Brunswick.
